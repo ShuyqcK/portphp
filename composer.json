@@ -1,5 +1,5 @@
 {
-    "name": "portphp/portphp",
+    "name": "shuyqck/portphp",
     "description": "Data import/export workflow",
     "keywords": [ "data", "import", "export", "csv", "excel", "doctrine" ],
     "license": "MIT",
@@ -18,11 +18,6 @@
             "homepage": "https://github.com/portphp/portphp/graphs/contributors"
         }
     ],
-    "support": {
-        "issues": "https://github.com/portphp/portphp/issues",
-        "source": "https://github.com/portphp/portphp",
-        "docs": "https://portphp.readthedocs.org"
-    },
     "require": {
         "php": ">=5.6.0",
         "psr/log": "~1.0",
